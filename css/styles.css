@@ -68,4 +68,17 @@ a {
   bottom: 0px;
 }
 
+.modal .modal-header {
+  background-color: #512DAB;
+}
+.modal .modal-body {
+  background-color: #D1C4E9;
+}
+.modal .close {
+  color: floralwhite;
+}
+.modal .modal-title {
+  color: floralwhite;
+}
+
 /*# sourceMappingURL=styles.css.map */
